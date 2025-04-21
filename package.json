@@ -1,0 +1,24 @@
+{
+  "name": "@smtv/design-tokens",
+  "version": "1.0.0",
+  "description": "Design tokens for SMTV component library and TV app prototype",
+  "main": "dist/design-tokens.css",
+  "style": "dist/design-tokens.css",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "style-dictionary build",
+    "watch": "style-dictionary build --watch"
+  },
+  "keywords": [
+    "design-tokens",
+    "css-variables",
+    "style-dictionary"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "style-dictionary": "^3.8.0"
+  }
+}

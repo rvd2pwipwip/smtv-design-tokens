@@ -1,0 +1,50 @@
+{
+  "font": {
+    "family": {
+      "primary": {
+        "value": "'Inter', sans-serif",
+        "type": "fontFamily"
+      },
+      "secondary": {
+        "value": "'SF Pro Display', sans-serif",
+        "type": "fontFamily"
+      }
+    },
+    "size": {
+      "h1": {
+        "value": "48px",
+        "type": "fontSize"
+      },
+      "h2": {
+        "value": "36px",
+        "type": "fontSize"
+      },
+      "h3": {
+        "value": "28px",
+        "type": "fontSize"
+      },
+      "body": {
+        "value": "24px",
+        "type": "fontSize"
+      },
+      "small": {
+        "value": "16px",
+        "type": "fontSize"
+      }
+    },
+    "weight": {
+      "regular": {
+        "value": "400",
+        "type": "fontWeight"
+      },
+      "medium": {
+        "value": "500",
+        "type": "fontWeight"
+      },
+      "bold": {
+        "value": "700",
+        "type": "fontWeight"
+      }
+    }
+  }
+} 

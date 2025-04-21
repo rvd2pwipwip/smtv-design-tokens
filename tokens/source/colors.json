@@ -1,0 +1,52 @@
+{
+  "color": {
+    "primary": {
+      "value": "#007AFF",
+      "type": "color"
+    },
+    "primary-dark": {
+      "value": "#0056B3",
+      "type": "color"
+    },
+    "background": {
+      "value": "#121212",
+      "type": "color"
+    },
+    "surface": {
+      "value": "#1E1E1E",
+      "type": "color"
+    },
+    "text": {
+      "primary": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#B3B3B3",
+        "type": "color"
+      }
+    },
+    "success": {
+      "value": "#34C759",
+      "type": "color"
+    },
+    "warning": {
+      "value": "#FFD60A",
+      "type": "color"
+    },
+    "error": {
+      "value": "#FF3B30",
+      "type": "color"
+    },
+    "focus": {
+      "ring": {
+        "value": "#fff",
+        "type": "color"
+      },
+      "bg": {
+        "value": "rgba(0, 122, 255, 0.1)",
+        "type": "color"
+      }
+    }
+  }
+} 

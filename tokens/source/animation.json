@@ -1,0 +1,52 @@
+{
+  "animation": {
+    "transition": {
+      "duration": {
+        "value": "200ms",
+        "type": "time"
+      },
+      "timing": {
+        "value": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "type": "timing"
+      }
+    },
+    "focus": {
+      "scale": {
+        "value": "1.02",
+        "type": "scale"
+      }
+    }
+  },
+  "focus": {
+    "outline": {
+      "width": {
+        "value": "10px",
+        "type": "size"
+      }
+    },
+    "ring": {
+      "offset": {
+        "value": "0",
+        "type": "size"
+      },
+      "style": {
+        "value": "solid",
+        "type": "string"
+      }
+    }
+  },
+  "tv": {
+    "width": {
+      "value": "1920px",
+      "type": "size"
+    },
+    "height": {
+      "value": "1080px",
+      "type": "size"
+    },
+    "baseFontSize": {
+      "value": "16px",
+      "type": "fontSize"
+    }
+  }
+} 

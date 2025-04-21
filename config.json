@@ -1,0 +1,16 @@
+{
+  "source": ["tokens/source/**/*.json"],
+  "platforms": {
+    "css": {
+      "transforms": ["attribute/cti", "name/cti/kebab"],
+      "buildPath": "dist/",
+      "files": [{
+        "destination": "design-tokens.css",
+        "format": "css/variables",
+        "options": {
+          "selector": ":root"
+        }
+      }]
+    }
+  }
+} 
