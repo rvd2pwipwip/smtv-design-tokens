@@ -16,11 +16,14 @@ Import the CSS variables in your project:
 @import '@smtv/design-tokens/dist/tokens.css';
 ```
 
+For detailed documentation, including token reference, best practices, and examples, see our [Documentation](docs/README.md).
+
 ## Structure
 
 - `tokens/` - Contains the token definitions in JSON format
 - `dist/` - Contains the built CSS variables and other formats
 - `scripts/` - Contains build scripts to generate different token formats
+- `docs/` - Contains detailed documentation and usage examples
 
 ## Development
 
