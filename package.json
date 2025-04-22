@@ -1,23 +1,35 @@
 {
   "name": "@smtv/design-tokens",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Design tokens for SMTV component library and TV app prototype",
   "main": "dist/design-tokens.css",
   "style": "dist/design-tokens.css",
   "files": [
-    "dist"
+    "dist",
+    "docs"
   ],
   "scripts": {
     "build": "style-dictionary build",
-    "watch": "style-dictionary build --watch"
+    "watch": "style-dictionary build --watch",
+    "prepublishOnly": "npm run build"
   },
   "keywords": [
     "design-tokens",
     "css-variables",
-    "style-dictionary"
+    "style-dictionary",
+    "tv-app",
+    "component-library"
   ],
-  "author": "",
+  "author": "rvd2pwipwip",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rvd2pwipwip/smtv-design-tokens.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rvd2pwipwip/smtv-design-tokens/issues"
+  },
+  "homepage": "https://github.com/rvd2pwipwip/smtv-design-tokens#readme",
   "devDependencies": {
     "style-dictionary": "^3.8.0"
   }
