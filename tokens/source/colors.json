@@ -38,6 +38,10 @@
       "value": "#FF3B30",
       "type": "color"
     },
+    "outline-secondary": {
+      "value": "#707070",
+      "type": "color"
+    },
     "focus": {
       "ring": {
         "value": "#fff",
