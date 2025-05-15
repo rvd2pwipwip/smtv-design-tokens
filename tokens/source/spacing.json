@@ -8,16 +8,40 @@
       "value": "8px",
       "type": "spacing"
     },
+    "s12": {
+      "value": "12px",
+      "type": "spacing"
+    },
     "md": {
       "value": "16px",
+      "type": "spacing"
+    },
+    "m20": {
+      "value": "20px",
       "type": "spacing"
     },
     "lg": {
       "value": "24px",
       "type": "spacing"
     },
+    "l28": {
+      "value": "28px",
+      "type": "spacing"
+    },
     "xl": {
       "value": "32px",
+      "type": "spacing"
+    },
+    "x36": {
+      "value": "36px",
+      "type": "spacing"
+    },
+    "x40": {
+      "value": "40px",
+      "type": "spacing"
+    },
+    "x44": {
+      "value": "44px",
       "type": "spacing"
     },
     "xxl": {
