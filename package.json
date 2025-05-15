@@ -1,6 +1,6 @@
 {
   "name": "@smtv/design-tokens",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Design tokens for SMTV component library and TV app prototype",
   "main": "dist/design-tokens.css",
   "style": "dist/design-tokens.css",
